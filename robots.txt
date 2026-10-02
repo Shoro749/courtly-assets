@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://<username>.github.io/<repository>/sitemap.xml
+Sitemap: https://shoro749.github.io/courtly-assets/sitemap.xml

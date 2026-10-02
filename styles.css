@@ -408,16 +408,6 @@ ol {
   aspect-ratio: 4 / 3;
 }
 
-.venue-card:not(.venue-card-featured) .venue-image-wrap {
-  aspect-ratio: 1 / 1;
-}
-
-@media (max-width: 63.999rem) {
-  .venue-card:not(.venue-card-featured) .venue-image-wrap {
-    aspect-ratio: 4 / 3;
-  }
-}
-
 @media (max-width: 39.999rem) {
   .venues-grid {
     grid-auto-rows: 1fr;
